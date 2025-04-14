@@ -1,6 +1,6 @@
-# 🛒 Shopping Online
+# 🛒 Shoppingonline
 
-**Shopping Online** is a full-featured e-commerce web application that allows users to browse products, add items to a cart, and place orders. The system includes a modern frontend interface, a powerful backend API, and a secure user management system with role-based access.
+**Shoppingonline** is a full-featured e-commerce web application that allows users to browse products, add items to a cart, and place orders. The system includes a modern frontend interface, a powerful backend API, and a secure user management system with role-based access.
 
 ---
 
@@ -91,7 +91,9 @@ src/
 ├── components/     # Reusable components
 ├── services/       # API services
 └── styles/         # Global styles
+
 ---
+
 ```
 🔒 Security
 JWT Authentication
@@ -117,19 +119,18 @@ Optimized MySQL schema design
 ---
 🤝 Contributing
 Fork the repository
-
 Create a new branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a Pull Request for review
+
 ---
 📝 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 ---
 👥 Author
 Lê Nguyễn Vũ Hoàng
+
 Full-stack & backend developer
+
 Contact: vuhoangdz2003@gmail.com
