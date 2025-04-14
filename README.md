@@ -50,25 +50,27 @@ yarn install
 cp .env.example .env  # Create environment config
 # Edit DB credentials, JWT_SECRET, etc. in .env
 yarn prisma migrate dev  # Run database schema migration
-yarn start:dev           # Start backend server
-
+yarn start:dev           # Start backend server 
+```
 🧪 Testing
 Backend Tests
-bash 
+```bash 
 cd shoppingFrontend
 yarn install
 cp .env.example .env  # Create frontend env file
 # Set API_URL pointing to your backend
 yarn dev  # Start development server
-
+```
 Frontend Tests
-bash
+```bash
 Sao chép
 Chỉnh sửa
 cd shoppingFrontend
 yarn test
+```
 🏗 Project Structure
 🔙 Backend (shoppingAPI)
+```
 bash
 Sao chép
 Chỉnh sửa
@@ -81,10 +83,9 @@ src/
 ├── dashboard/      # Sales statistics
 ├── app.module.ts   # Main app module
 └── main.ts         # Application entry point
+```
 🖥 Frontend (shoppingFrontend)
-bash
-Sao chép
-Chỉnh sửa
+```bash
 src/
 ├── app/            # Next.js App Router structure
 │   ├── auth/       # Login / Register pages
@@ -95,6 +96,7 @@ src/
 ├── components/     # Reusable components
 ├── services/       # API services
 └── styles/         # Global styles
+```
 🔒 Security
 JWT Authentication
 
