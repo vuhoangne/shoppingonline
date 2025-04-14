@@ -132,6 +132,6 @@ Open a Pull Request for review
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 👥 Author
-Lê Nguyễn Vũ Hoàng – Final-year student at Văn Lang University
+Lê Nguyễn Vũ Hoàng
 Full-stack & backend developer
-Contact: vuhuynhnguyen@example.com
+Contact: vuhoangdz2003@gmail.com
