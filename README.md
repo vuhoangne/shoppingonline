@@ -91,6 +91,7 @@ src/
 ├── components/     # Reusable components
 ├── services/       # API services
 └── styles/         # Global styles
+---
 ```
 🔒 Security
 JWT Authentication
@@ -113,7 +114,7 @@ Lazy loading product images
 Code splitting by page
 
 Optimized MySQL schema design
-
+---
 🤝 Contributing
 Fork the repository
 
@@ -124,10 +125,10 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request for review
-
+---
 📝 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
+---
 👥 Author
 Lê Nguyễn Vũ Hoàng
 Full-stack & backend developer
