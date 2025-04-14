@@ -63,17 +63,12 @@ yarn dev  # Start development server
 ```
 Frontend Tests
 ```bash
-Sao chép
-Chỉnh sửa
 cd shoppingFrontend
 yarn test
 ```
 🏗 Project Structure
 🔙 Backend (shoppingAPI)
-```
-bash
-Sao chép
-Chỉnh sửa
+```bash
 src/
 ├── auth/           # Authentication & Authorization
 ├── users/          # User management
